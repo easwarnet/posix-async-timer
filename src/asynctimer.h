@@ -1,4 +1,3 @@
-
 #ifndef ASYNCTIMER
 #define ASYNCTIMER
 
